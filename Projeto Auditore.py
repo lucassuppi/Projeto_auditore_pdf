@@ -10,6 +10,7 @@ import shutil
 EMAIL = '..escreva aqui..'
 SENHA = '..escreva aqui..'
 
+# ESCREVA SEUS CLIENTES AQUI
 clientes = ['MERCADINHO LTDA', 'MERCADINHO LTDA 2', 'CLIENTE 3']
 
 win = Tk()
