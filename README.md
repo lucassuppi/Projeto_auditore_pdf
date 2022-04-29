@@ -10,7 +10,7 @@ ESCOLHA SEUS CLIENTES
 
 PRONTO!
 
-Execute o programa e bingo! PDF baixado e renomeado com sucesso!
+Execute o programa e bingo! PDF baixado e renomeado com sucesso! (PDF GERADO COM A DATA ATUAL)
 
 Qualquer erro, problema ou duvida, meu twitter: @uKyrius
 
@@ -28,6 +28,6 @@ CHOOSE YOUR CUSTOMERS
 
 FINISHED!
 
-Run the program and bingo! PDF downloaded and renamed successfully!
+Run the program and bingo! PDF downloaded and renamed successfully! (PDF GENERATED WITH THE CURRENT DATE)
 
 Any errors, problems or doubts, my twitter: @uKyrius
