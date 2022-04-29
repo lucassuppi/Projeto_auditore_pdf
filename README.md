@@ -20,7 +20,7 @@ Qualquer erro, problema ou duvida, meu twitter: @uKyrius
 A project to automatically print auditor's customer reports, rename the pdf file and move it to the Desktop!
 
 ## ATTENTION!
-TROQUE O EMAIL E A SENHA NO INICIO DO PROGRAMA
+CHANGE YOUR EMAIL AND PASSWORD AT THE START OF THE PROGRAM
 
 REPLACE YOUR COMPUTER USER (ex: C:\Users\YOUR_USER\Downloads)
 
